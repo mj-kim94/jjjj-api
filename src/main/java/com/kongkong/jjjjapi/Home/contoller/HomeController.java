@@ -1,4 +1,4 @@
-package com.kongkong.jjjjapi.Home;
+package com.kongkong.jjjjapi.Home.contoller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
